@@ -1,4 +1,4 @@
-Readme
+
 
 Introduction
 
@@ -25,15 +25,7 @@ To set up the project on your local machine, follow these steps:
     Open the project directory in your text editor of choice
     Open the index.html file in your web browser
 
-Usage
 
-To use the Online Learning platform, simply follow these steps:
-
-    Navigate to the platform's homepage
-    Browse through the available courses and select one that interests you
-    Click on the course to access its content
-    Follow the interactive lesson plan to learn the course content
-    Engage in the learning experience by completing assignments and quizzes
 
 Contributing
 
